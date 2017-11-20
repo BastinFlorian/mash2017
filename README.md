@@ -1,22 +1,22 @@
 
 # Introduction to scikit-learn
-## Master M2: Mathématiques, Apprentissage et Sciences Humaines (MASH) 2016-2017 course 
+## Master M2: Mathématiques, Apprentissage et Sciences Humaines (MASH) 2017-2018 course 
 
 ![](http://www.di.ens.fr/~aspremon/MASH/LogoMASH.png)
 
-Instructors: *[Fabian Pedregosa](http://fa.bianp.net)* and *[Fajwel Fogel](http://www.di.ens.fr/~fogel/)*.
+Instructors: *[Igor Colin](http://igorcolin.github.io)* and *[Fajwel Fogel](http://www.di.ens.fr/~fogel/)*.
 
-- email: <f@bianp.net>
+- email: <igor.colin@gmail.com>
 
-This repository contains notebooks and other files associated with the MASH course introduction to
+This repository was initiated by *[Fabian Pedregosa](fa.bianp.net)* and contains notebooks and other files associated with the MASH course introduction to
 [Scikit-learn](http://scikit-learn.org).
 
 ## Notebook Listing
 You can view the teaching materials using the excellent nbviewer service.
 
-  * [00: Introduction to Python](https://nbviewer.jupyter.org/github/fabianp/mash_2016_sklearn_intro/blob/master/00-Intoduction%20to%20the%20Python%20language.ipynb)
+  * [00: Introduction to Python](https://nbviewer.jupyter.org/github/igorcolin/mash_2017/blob/master/00-Intoduction%20to%20the%20Python%20language.ipynb)
   * 01: Introduction to Pandas and scikit-learn
-  * [02: Supervised learning I](http://nbviewer.jupyter.org/github/fabianp/mash_2016_sklearn_intro/blob/master/02-Supervised%20learning%20I.ipynb)
+  * [02: Supervised learning I](http://nbviewer.jupyter.org/github/igorcolin/mash_2017/blob/master/02-Supervised%20learning%20I.ipynb)
   * etc. (see github page)
 
 Note, however, that you cannot modify or run the contents within nbviewer.
@@ -67,6 +67,8 @@ repository is a much better option.
 
 ## Other resources
 
-Material from [last year's course](http://www.di.ens.fr/~slacoste/teaching/projet-MASH-2015/)
+Material from [previous courses](http://www.di.ens.fr/~slacoste/teaching/projet-MASH-2015/)
+
+Material from [last year's course](https://github.com/fabianp/mash_2016_sklearn_intro)
 
 See also the excellent [scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial) by Jake Vanderplas.
